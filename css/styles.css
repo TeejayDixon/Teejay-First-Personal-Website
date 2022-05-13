@@ -1,0 +1,273 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+
+h1 {
+  color: #FFD124;
+
+  margin: 500px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento',cursive;
+}
+
+h2{
+  top: 150px;
+  position: relative;
+  font-weight: normal;
+  color: #006778;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+h3{
+  color: #676FB2;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+a{
+  color: #676FB2;
+}
+
+span{
+  text-decoration: underline;
+}
+
+li{
+text-decoration: none;
+display: inline-block;
+text-align: center;
+
+
+}
+
+a{
+  right: 100px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #DDDDDD;
+}
+
+hr{
+  color: #DDDDDD;
+ border-style: none;
+ border-top-style: dotted;
+ width: 4%;
+ border-width: 5px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 320px;
+  top: 400px;
+  width: 15%;
+}
+
+.mountain{
+  top:25px;
+  left: 10px;
+  width: 100;
+  position: relative;
+}
+
+
+.top-container{
+
+  background-color: #676FB2;
+  position: absolute;
+  padding-top: 20px;
+
+}
+
+.middle-container{
+margin-top: 4px;
+background-color: #F7F5F2;
+margin: auto;
+
+
+}
+
+ .bottom-container {
+   text-align: center;
+   padding-top: 60px;
+   padding-bottom: 40px;
+
+background-color: #006778;
+}
+
+.footer-link{
+  color: white;
+  margin-right: 30px;
+}
+
+.footer-link2{
+  color: white;
+margin-right: 20px;
+}
+
+
+
+.tdixon{
+  color: white;
+  padding: 10px 70px 10px 20px;
+  font-size: 0.75rem;
+
+}
+
+.top-cloud{
+  position: absolute;
+  right: 26.5625rem;
+  top: 6.25rem;
+  width: 3%;
+}
+
+.skill-row{
+width: 50%;
+margin: 180px auto 200px auto;
+text-align: left;
+line-height: 2;
+font-weight: bold;
+}
+
+.Teejay{
+  top: 90px;
+  position: relative;
+  width: 15%;
+  left: 11px;
+}
+
+.code{
+  width: 25%;
+  float: left;
+margin-right: 30px;
+}
+
+
+.art{
+
+  width:23%;
+  float: right;
+  margin-left: 20px;
+}
+
+.artside{
+  margin-top: 250px;
+  font-weight: bolder;
+}
+
+
+.programmer{
+  top: 20px;
+  color: #FFD124;
+}
+
+.Hello{
+  font-weight: bolder;
+  margin-top: 1px;
+  left: 15px;
+}
+
+.profilepara{
+  margin: 190px auto 100px auto;
+  width: 32%;
+  text-align: center;
+  line-height: 2;
+  font-weight: bold;
+}
+
+.moon{
+  width: 10%;
+position: absolute;
+margin-top: 100px;
+right: 500px;
+}
+
+.design{
+  top: 100;
+  font-weight: bolder;
+}
+
+
+.myskills{
+  font-weight: bold;
+  top: 50px;
+}
+
+.email{
+  width: 10%;
+}
+
+.twoksports{
+  margin-right: 40px;
+  margin-top: 200px;
+  float: left;
+  width: 30%;
+}
+.twokpara{
+  margin: auto 100px auto 100px;
+  width: 90%;
+  font-weight: bold;
+  text-align: center;
+  line-height: 2;
+  padding-bottom: 80px;
+}
+
+.twoktourn{
+  margin-top: 250px;
+}
+
+.getin{
+  margin: auto auto auto 200px;
+}
+
+
+.getin{
+  padding-top: 80px;
+  margin: auto;
+  top: 0;
+}
+
+.letscode{
+margin: 20px;
+padding-bottom: 20px;
+
+}
+
+.twokchal{
+  font-weight: bold;
+  margin: 40px auto;
+  width: 30%;
+}
+
+.contact-me{
+  right: 100px;
+  padding-bottom: 100px;
+}
+
+.btn{
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 3px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 19px;
+  background: #9C9C9C;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+
+.footer-link{
+  padding-left: 75px;
+  padding-right: 10px;
+}
+
+.footer-link2{
+  padding-right: 100px;
+}
